@@ -1,7 +1,3 @@
-new update
-
--- MySQL dump 10.13  Distrib 5.7.17, for macos10.12 (x86_64)
---
 -- Host: 127.0.0.1    Database: ppz_KRhBvQIToWc97lUgVXMxqZN8
 -- ------------------------------------------------------
 -- Server version	5.6.39
